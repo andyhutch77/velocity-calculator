@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/velocity-calculator/static/css/main.68c0a595.css",
+    "main.js": "/velocity-calculator/static/js/main.7ce8d73d.js",
+    "static/js/787.4be7bc51.chunk.js": "/velocity-calculator/static/js/787.4be7bc51.chunk.js",
+    "static/media/ms_sans_serif.woff": "/velocity-calculator/static/media/ms_sans_serif.aac84aa6de42b83d1a62.woff",
+    "static/media/ms_sans_serif_bold.woff": "/velocity-calculator/static/media/ms_sans_serif_bold.9fbe71248995f1c639d4.woff",
+    "static/media/ms_sans_serif.woff2": "/velocity-calculator/static/media/ms_sans_serif.0348082abb503fb6a8c2.woff2",
+    "static/media/ms_sans_serif_bold.woff2": "/velocity-calculator/static/media/ms_sans_serif_bold.7fcf57cc6e87ecddbf64.woff2",
+    "index.html": "/velocity-calculator/index.html",
+    "main.68c0a595.css.map": "/velocity-calculator/static/css/main.68c0a595.css.map",
+    "main.7ce8d73d.js.map": "/velocity-calculator/static/js/main.7ce8d73d.js.map",
+    "787.4be7bc51.chunk.js.map": "/velocity-calculator/static/js/787.4be7bc51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68c0a595.css",
+    "static/js/main.7ce8d73d.js"
+  ]
+}
