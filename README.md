@@ -4,5 +4,5 @@
 
 Used to calculate the team velocity for an upcoming sprint.
 
-![image](https://user-images.githubusercontent.com/1861517/200884162-59bda4c0-18b3-40b8-a583-06aebe317a94.png)
+![Screen shot of the Velocity Calculator App](https://user-images.githubusercontent.com/1861517/203803830-304de800-8adb-4717-88e7-c3089d9036b1.png)
 
