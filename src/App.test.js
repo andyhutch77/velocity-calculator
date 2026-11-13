@@ -1,8 +1,8 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders the velocity generator and its default calculation', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  expect(screen.getByRole('heading', { name: /velocity generator/i })).toBeInTheDocument();
+  expect(screen.getByText(/total = 7\.5 story points/i)).toBeInTheDocument();
 });
